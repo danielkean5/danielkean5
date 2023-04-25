@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Daniel Kean and I am a student at Sacred Heart High school. 
+My name is Daniel Kean and I am a grade 10 student at Sacred Heart High school. 
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
